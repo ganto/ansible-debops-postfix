@@ -1,9 +1,7 @@
 debops.postfix - Configure Postfix SMTP service using Ansible
 
-Copyright (C) 2014-2017 Maciej Delmanowski <drybjed@gmail.com>
-Copyright (C) 2014-2017 DebOps https://debops.org/
-
-This repository is part of DebOps.
+Copyright (C) 2014-2019 Maciej Delmanowski <drybjed@gmail.com>
+Copyright (C) 2014-2019 DebOps https://debops.org/
 
 DebOps is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 3, as
